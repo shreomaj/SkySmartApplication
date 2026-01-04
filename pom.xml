@@ -113,6 +113,7 @@
 <!--        </dependency>-->
 
         <!-- Razorpay -->
+        <!--commented for now as payment gateway is not required in MVP-->
         <dependency>
             <groupId>com.razorpay</groupId>
             <artifactId>razorpay-java</artifactId>
